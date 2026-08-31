@@ -1,85 +1,25 @@
-<p align="center">
-  <img src="https://i.pinimg.com/736x/ed/ec/82/edec8252349f084efa4ae4160013326b.jpg" width="100%">
-</p>
+# 💫 About Me:
+Always trying to learn, anyway, my name is Katryne, but you can call me Akame.<br> I'm a systems development apprentice
 
-<h1 align="center">Katryne! </h1>
 
-<p align="center">
-  <img src="https://i.pinimg.com/1200x/7d/4d/7f/7d4d7ffdd36ba02b71fdc4ac7ab291fe.jpg" width="150px" style="border-radius:50%;">
-</p>
+## 🌐 Socials:
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/katrynetec.bsky.social) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/katryne.440) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/akame_katryne) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/akame_katryne) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:katrynetec@gmail.com) 
 
-<p align="center">
-  🎓 Estudante de Desenvolvimento de Sistemas no SENAI Criciúma - SC <br>
-  🌱 Atualmente aprendendo JavaScript e banco de dados
-</p>
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Akame2707&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Akame2707&theme=blue_navy&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Akame2707&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-
-## 💻 Sobre Mim
-
-Estudante de Desenvolvimento de Sistemas no SENAI de Criciúma, Santa Catarina.
-- ☕ Java
-- 🌐 HTML & CSS
-- ⚡ JavaScript (aprendendo)
-- 🗄️ MySQL
-## 🧙‍♀️ Atualmente
-<p align="center">
-  <img src="https://i.pinimg.com/originals/88/fe/b9/88feb93154e1b2a3865e183c63f110e0.gif" width="450px">
-</p>
----
-
-## 🛠️ Tecnologias
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java" />
-<img src="https://skillicons.dev/icons?i=html" />
-<img src="https://skillicons.dev/icons?i=css" />
-<img src="https://skillicons.dev/icons?i=javascript" />
-<img src="https://skillicons.dev/icons?i=mysql" />
-<img src="https://skillicons.dev/icons?i=git" />
-<img src="https://skillicons.dev/icons?i=github" />
-<img src="https://skillicons.dev/icons?i=vscode" />
-
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Akame2707&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Akame2707&icon=9&color=13)](https://visitcount.itsvg.in)
 
-## 🎨 Ferramentas de Arte
+  ## 💰 You can help me by Donating
+  [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/AkameTec) 
 
-<p align="center">
-
-🖌️ Krita &nbsp;&nbsp;|&nbsp;&nbsp;
-🎨 Ibis Paint &nbsp;&nbsp;|&nbsp;&nbsp;
-🖼️ GIMP
-
-</p>
-
----
-
-## 📊 Estatísticas GitHub
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🌟 Objetivos
-
-💙 Aprender cada vez mais sobre desenvolvimento de software
-
-💙 Criar projetos úteis e criativos
-
-💙 Evoluir como programadora e ilustradora
-
----
-
-<p align="center">
-  ✨ Obrigada por visitar meu perfil! ✨
-</p>
-
-<p align="center">
-  <img src="https://media.tenor.com/V6fR8XfX4gUAAAAi/stars.gif" width="120px">
-</p>
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

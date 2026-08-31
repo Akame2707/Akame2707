@@ -13,14 +13,7 @@ Always trying to learn, anyway, my name is Katryne, but you can call me Akame.<b
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akame2707/Akame2707/output/snake.svg">
   <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Akame2707/Akame2707/output/snake.svg">
 </picture>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Akame2707&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
----
-[![](https://komarev.com/ghpvc/?username=Akame2707&icon=9&color=13)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
+ ## 💰 You can help me by Donating
   [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/AkameTec) 
 
   

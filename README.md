@@ -14,7 +14,7 @@ Always trying to learn, anyway, my name is Katryne, but you can call me Akame.<b
   <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Akame2707/Akame2707/output/snake.svg">
 </picture>
  ## 💰 You can help me by Donating
-  [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/AkameTec) 
+  [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/AkameTec)]
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

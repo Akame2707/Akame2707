@@ -1,4 +1,4 @@
-h# 💫 About Me:
+## 💫 About Me:
 Always trying to learn, anyway, my name is Katryne, but you can call me Akame.<br> I'm a systems development apprentice
 
 

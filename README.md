@@ -1,6 +1,3 @@
-Seu README está pronto 🎉🎉🎉
-Favoritar esse projeto
-Fazer fork no GitHub
 
 <h1 data-importer="text" align="center">💫𝄞⨾𓍢ִ໋ AKAME</h1>
 

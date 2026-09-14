@@ -1,27 +1,67 @@
-<h1 align="center"><b>Hi , I'm Akame </b>👋</h1>
-<!--  -->
+<h1 data-importer="text" align="center">💫𝄞⨾𓍢ִ໋ AKAME</h1>
 
-## 💫 About Me
-Systems Development student
+###
 
-## 🌐 Socials
-[![github](https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Akame2707)
+<h3 data-importer="text" align="left">My name is Katryne and I am a Systems Development student at SENAI in Criciúma, Santa Catarina.<br>I enjoy technology, programming, and design</h3>
 
-## 🛠️ Tech Stack
-![](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white) ![](https://img.shields.io/badge/Html5-E34F26?style=flat-square&logo=HTML5&logoColor=white) ![](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white) ![](https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=MySQL&logoColor=white) ![](https://img.shields.io/badge/Css-1572B6?style=flat-square&logo=CSS&logoColor=white)
+###
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Akame2707&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Akame2707&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akame2707&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-  
+<h2 data-importer="text" align="left">𖦹 ׂ 𓈒 🥞／ About me</h2>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Akame2707&theme=dark&no-frame=false&no-bg=true&margin-w=4)
-    
+###
 
-## 📈 Top Repositories
-![](https://github-contributor-stats.vercel.app/api?username=Akame2707&limit=5&theme=dark&combine_all_yearly_contributions=true)
-    
+<p data-importer="text" align="left">I enjoy technology, programming, and design. I currently work with Java, HTML, and CSS, and I am also expanding my knowledge in JavaScript and MySQL to develop increasingly complete and functional applications.<br>Besides programming, I also like the creative field. I create digital illustrations using tools like Krita, Ibis Paint, and GIMP, combining creativity and technology in my projects</p>
 
-<!-- Proudly created with Github Readme Maker ( https://github-readme-maker-pi.vercel.app/ ) -->
+###
+
+<h2 data-importer="text" align="center">◡◡ ﹒ TECH STACK 𖧧</h2>
+
+###
+
+<div data-importer="techs" align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="31" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="31" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="31" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
+  <img width="31" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="31" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="31" />
+  <img src="https://skillicons.dev/icons?i=idea" height="40" alt="intellijidea logo"  />
+  <img width="31" />
+  <img src="https://skillicons.dev/icons?i=gamemakerstudio" height="40" alt="gamemakerstudio logo"  />
+  <img width="31" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+</div>
+
+###
+
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&left_color=black&right_color=mediumblue"  />
+</div>
+
+###
+
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=2&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=gruvbox"  />
+</div>
+
+###
+
+<img data-importer="image" align="left" height="200" src="https://media1.tenor.com/m/zJyuYpa7hXsAAAAC/nagatoro.gif"  />
+
+###
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation" />
+
+###

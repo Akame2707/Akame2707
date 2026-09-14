@@ -18,10 +18,6 @@ Fazer fork no GitHub
 
 ###
 
-<div data-importer="stats" align="center">
-<img src="https://streak-stats.demolab.com?user=Akame2707&theme=dracula" height="150" alt="GitHub streak" />
-</div>
-
 ###
 
 <h2 data-importer="text" align="center">◡◡ ﹒ TECH STACK 𖧧</h2>

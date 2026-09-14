@@ -1,20 +1,27 @@
-## 💫 About Me:
-Always trying to learn, anyway, my name is Katryne, but you can call me Akame.<br> I'm a systems development apprentice
+<h1 align="center"><b>Hi , I'm Akame </b>👋</h1>
+<!--  -->
 
+## 💫 About Me
+Systems Development student
 
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/katrynetec.bsky.social) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/katryne.440) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/akame_katryne) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/akame_katryne) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:katrynetec@gmail.com) 
+## 🌐 Socials
+[![github](https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Akame2707)
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Contributions:
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akame2707/Akame2707/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akame2707/Akame2707/output/snake.svg">
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Akame2707/Akame2707/output/snake.svg">
-</picture>
- ## 💰 You can help me by Donating
-  https://patreon.com/AkameTec
+## 🛠️ Tech Stack
+![](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white) ![](https://img.shields.io/badge/Html5-E34F26?style=flat-square&logo=HTML5&logoColor=white) ![](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white) ![](https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=MySQL&logoColor=white) ![](https://img.shields.io/badge/Css-1572B6?style=flat-square&logo=CSS&logoColor=white)
 
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=Akame2707&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Akame2707&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akame2707&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Akame2707&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+    
+
+## 📈 Top Repositories
+![](https://github-contributor-stats.vercel.app/api?username=Akame2707&limit=5&theme=dark&combine_all_yearly_contributions=true)
+    
+
+<!-- Proudly created with Github Readme Maker ( https://github-readme-maker-pi.vercel.app/ ) -->

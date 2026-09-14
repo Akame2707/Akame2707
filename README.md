@@ -40,12 +40,6 @@
 
 ###
 
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
 <div data-importer="profile-views" align="center">
   <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&left_color=black&right_color=mediumblue"  />
 </div>
@@ -58,10 +52,13 @@
 
 ###
 
-<img data-importer="image" align="left" height="200" src="https://media1.tenor.com/m/zJyuYpa7hXsAAAAC/nagatoro.gif"  />
+<img data-importer="image" align="left" height="360" src="https://wallpapercave.com/wp/wp12076287.png"  />
 
 ###
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation" />
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/activity-graph-output/activity-graph.svg?radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
 ###

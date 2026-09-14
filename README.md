@@ -1,3 +1,7 @@
+Seu README está pronto 🎉🎉🎉
+Favoritar esse projeto
+Fazer fork no GitHub
+
 <h1 data-importer="text" align="center">💫𝄞⨾𓍢ִ໋ AKAME</h1>
 
 ###
@@ -11,6 +15,12 @@
 ###
 
 <p data-importer="text" align="left">I enjoy technology, programming, and design. I currently work with Java, HTML, and CSS, and I am also expanding my knowledge in JavaScript and MySQL to develop increasingly complete and functional applications.<br>Besides programming, I also like the creative field. I create digital illustrations using tools like Krita, Ibis Paint, and GIMP, combining creativity and technology in my projects</p>
+
+###
+
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
 ###
 
@@ -48,17 +58,6 @@
 
 <div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=2&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=gruvbox"  />
-</div>
-
-###
-
-<img data-importer="image" align="left" height="360" src="https://wallpapercave.com/wp/wp12076287.png"  />
-
-###
-
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/activity-graph-output/activity-graph.svg?radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###

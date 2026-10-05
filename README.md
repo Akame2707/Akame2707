@@ -55,19 +55,19 @@
 
 ###
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akame2707&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akame2707&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Akame2707&show_icons=true&theme=midnight-purple&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akame2707&layout=compact&theme=midnight-purple&hide_border=true" height="180" />
 </div>
 
 ###
 
-<h2 align="center">📊 Most Used Languages</h2>
+<h2 align="center">Most Used Languages</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akame2707&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akame2707&layout=compact&theme=midnight-purple&hide_border=true" height="180" />
 </div>
 
 ###

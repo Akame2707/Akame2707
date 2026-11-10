@@ -1,72 +1,47 @@
+<h1 align="center">💫 Katryne (Akame)</h1>
 
-<h1 data-importer="text" align="center">💫𝄞⨾𓍢ִ໋ AKAME</h1>
-
-###
-
-<h3 data-importer="text" align="left">My name is Katryne and I am a Systems Development student at SENAI in Criciúma, Santa Catarina.<br>I enjoy technology, programming, and design</h3>
-
-###
-
-<h2 data-importer="text" align="left">𖦹 ׂ 𓈒 🥞／ About me</h2>
-
-###
-
-<p data-importer="text" align="left">I enjoy technology, programming, and design. I currently work with Java, HTML, and CSS, and I am also expanding my knowledge in JavaScript and MySQL to develop increasingly complete and functional applications.<br>Besides programming, I also like the creative field. I create digital illustrations using tools like Krita, Ibis Paint, and GIMP, combining creativity and technology in my projects</p>
-
-###
-
-###
-
-<h2 data-importer="text" align="center">◡◡ ﹒ TECH STACK 𖧧</h2>
-
-###
-
-<div data-importer="techs" align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="31" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="31" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="31" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
-  <img width="31" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="31" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="31" />
-  <img src="https://skillicons.dev/icons?i=idea" height="40" alt="intellijidea logo"  />
-  <img width="31" />
-  <img width="31" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-</div>
-
-###
-
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&left_color=black&right_color=mediumblue"  />
-</div>
-
-###
-
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=2&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=gruvbox"  />
-</div>
-
-###
-
-<h2 align="center">GitHub Stats</h2>
+<p align="center">
+  Estudante de Desenvolvimento de Sistemas · SENAI Criciúma, SC<br>
+  Java · Spring Boot · Web · Design Digital
+</p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akame2707&show_icons=true&theme=midnight-purple&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akame2707&layout=compact&theme=midnight-purple&hide_border=true" height="180" />
+  <img src="[visitor-badge.laobi.icu](https://visitor-badge.laobi.icu/badge?page_id=Akame2707.Akame2707&left_color=black&right_color=mediumblue)" alt="Visualizações do perfil" />
 </div>
 
-###
+---
 
-<h2 align="center">Most Used Languages</h2>
+## 👩‍💻 Sobre mim
+
+Meu nome é Katryne e sou estudante de Desenvolvimento de Sistemas no SENAI, em Criciúma (SC). Tenho interesse em tecnologia, programação e design.
+
+Atualmente trabalho com **Java**, **HTML** e **CSS**. Estou aprendendo **Spring Boot** para construir APIs e aplicações back-end, e também aprofundando meus conhecimentos em **JavaScript** e **MySQL**. Meu objetivo é desenvolver aplicações cada vez mais completas e funcionais.
+
+Fora da programação, atuo na área criativa: produzo ilustrações digitais com Krita, Ibis Paint e GIMP. Gosto de unir criatividade e tecnologia nos meus projetos.
+
+---
+
+## 🎯 Foco atual de estudos
+
+- Desenvolvimento de APIs REST com Spring Boot
+- Modelagem e consultas em bancos de dados MySQL
+- JavaScript para interfaces web dinâmicas
+
+---
+
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akame2707&layout=compact&theme=midnight-purple&hide_border=true" height="180" />
+  <img src="[skillicons.dev](https://skillicons.dev/icons?i=java,spring,html,css,js,py,mysql)" height="45" alt="Linguagens e frameworks" />
+  <br><br>
+  <img src="[skillicons.dev](https://skillicons.dev/icons?i=idea,vscode,git,github)" height="45" alt="Ferramentas" />
 </div>
 
-###
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+  <img src="[github-readme-stats.vercel.app](https://github-readme-stats.vercel.app/api?username=Akame2707&show_icons=true&theme=midnight-purple&hide_border=true)" height="180" alt="Estatísticas do GitHub" />
+  <img src="[github-readme-stats.vercel.app](https://github-readme-stats.vercel.app/api/top-langs/?username=Akame2707&layout=compact&theme=midnight-purple&hide_border=true)" height="180" alt="Linguagens mais usadas" />
+</div>

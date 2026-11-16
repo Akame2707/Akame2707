@@ -74,11 +74,11 @@ I'd love to connect with you! Feel free to reach out. ♡
 </a>
 
 <br><br>
-
-✉️ **katrynetec@gmail.com**
+<p>
+✉️ katrynetec@gmail.com
 
 📷 @akametec
-
+</p>
 <br>
 
 <h3>✧ Keep learning, keep creating! ✧</h3>

@@ -25,7 +25,7 @@
 <h2 align="center">𓆩♡𓆪 Things I know (so far!)</h2>
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/8c/1b/6c/8c1b6c45a15c9aae5dd499643ad3e1de.jpg" height="230" />
+  <img src="https://i.pinimg.com/originals/13/c5/74/13c574c433183d8033b72155955905f8.gif" height="230" />
 </p>
 
 <div align="center">

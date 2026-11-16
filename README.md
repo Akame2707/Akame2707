@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:263F5B,50:6D9CCB,100:D9EBFA&height=200&section=header&text=Katryne%20%7C%20Akame&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Systems%20Development%20Student%20%E2%98%81&descSize=16&descAlignY=58&animation=fadeIn">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:263F5B,50:6D9CCB,100:D9EBFA&height=200&section=header&text=Akame&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Systems%20Development%20Student%20%E2%98%81&descSize=16&descAlignY=58&animation=fadeIn">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=20&duration=3000&pause=1000&color=6D9CCB&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Katryne+%28Akame%29+%E2%99%A1;Systems+Development+Student;Learning+and+creating+every+day">
 

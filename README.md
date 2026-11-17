@@ -13,8 +13,6 @@
 <img src="https://img.shields.io/badge/Instagram-akametec-91BCE5?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
-<br><br>
-
 ✧ Creating, learning and turning ideas into reality. ✧
 
 </div>

@@ -16,8 +16,6 @@
   <img src="https://img.shields.io/badge/Email-Contact%20me-527F9E?style=flat-square&logo=gmail&logoColor=white" alt="Email Katryne" />
 </a>
 
-<br /><br />
-
 *Learning through practice. Building with purpose.*
 
 </div>
